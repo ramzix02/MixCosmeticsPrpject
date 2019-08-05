@@ -1,0 +1,41 @@
+{
+  "title": "Hello",
+  "msg":"Hello {} in the {} world ",
+  "next" :"Next",
+  "skip": "Skip >",
+  "signin": "Sign In",
+  "signup": "Sign Up",
+
+  "discover": "Discover",
+  "latest": "LATEST FASHION",
+  "shop": "Shop the lates fashion eye lances online",
+  "we": "we offer the latest high-quality products",
+
+  "new": "New",
+  "products": "Products",
+  "collections": "Shop the lates collections , Mix",
+  "exclusive": "cosmetics exclusive and new items",
+
+  "be": "Be",
+  "beauty": "Beauty",
+  "best": "We know the best for your",
+  "eye": "Eye & beauty",
+
+  "rate": "Rate App",
+  "share": "Share",
+
+  "clickMe":"Click me",
+  "signInPage": "Do you have an account already ?",
+  "signUpPage": "You Don't have an account?",
+  "signUpWord": "Sign Up",
+  "signInWord": "Sign In",
+  "userName": "User Name",
+  "email": "Email Address",
+  "phone": "Phone Number",
+  "password": "Password",
+  "clicked": {
+    "zero": "You clicked {} times!",
+    "one": "You clicked {} time!",
+    "other": "You clicked {} times!"
+  }
+}
